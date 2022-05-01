@@ -167,6 +167,7 @@ lib/glfw/src/clean: lib/glfw/src/CMakeFiles/update_mappings.dir/clean
 CMakeFiles/CrazyCraft-launcher.dir/all: lib/glad/CMakeFiles/glad.dir/all
 CMakeFiles/CrazyCraft-launcher.dir/all: lib/glfw/src/CMakeFiles/glfw.dir/all
 CMakeFiles/CrazyCraft-launcher.dir/all: lib/RmlUi/CMakeFiles/RmlCore.dir/all
+CMakeFiles/CrazyCraft-launcher.dir/all: lib/RmlUi/CMakeFiles/RmlDebugger.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrazyCraft-launcher.dir/build.make CMakeFiles/CrazyCraft-launcher.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrazyCraft-launcher.dir/build.make CMakeFiles/CrazyCraft-launcher.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ati/Desktop/code/launcher/CMakeFiles --progress-num= "Built target CrazyCraft-launcher"
@@ -174,7 +175,7 @@ CMakeFiles/CrazyCraft-launcher.dir/all: lib/RmlUi/CMakeFiles/RmlCore.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CrazyCraft-launcher.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ati/Desktop/code/launcher/CMakeFiles 95
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ati/Desktop/code/launcher/CMakeFiles 99
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CrazyCraft-launcher.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ati/Desktop/code/launcher/CMakeFiles 0
 .PHONY : CMakeFiles/CrazyCraft-launcher.dir/rule

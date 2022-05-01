@@ -16,6 +16,7 @@ set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/ati/Desktop/code/launcher/lib/glad/CMakeFiles/glad.dir/DependInfo.cmake"
   "/home/ati/Desktop/code/launcher/lib/glfw/src/CMakeFiles/glfw.dir/DependInfo.cmake"
   "/home/ati/Desktop/code/launcher/lib/RmlUi/CMakeFiles/RmlCore.dir/DependInfo.cmake"
+  "/home/ati/Desktop/code/launcher/lib/RmlUi/CMakeFiles/RmlDebugger.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

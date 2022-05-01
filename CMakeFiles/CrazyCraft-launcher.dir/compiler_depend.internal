@@ -398,4 +398,9 @@ CMakeFiles/CrazyCraft-launcher.dir/src/main.cpp.o
  /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Core/Texture.h
  /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Core/Spritesheet.h
  /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Core/Elements/ElementTabSet.h
+ /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Debugger.h
+ /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Debugger/Debugger.h
+ /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Debugger/Header.h
+ /home/ati/Desktop/code/launcher/lib/RmlUi/Include/RmlUi/Core/Platform.h
+ /home/ati/Desktop/code/launcher/src/RmlImpl.h
 

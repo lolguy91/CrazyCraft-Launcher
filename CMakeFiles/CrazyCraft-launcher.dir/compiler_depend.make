@@ -396,8 +396,21 @@ CMakeFiles/CrazyCraft-launcher.dir/src/main.cpp.o: src/main.cpp \
   lib/RmlUi/Include/RmlUi/Core/Geometry.h \
   lib/RmlUi/Include/RmlUi/Core/Texture.h \
   lib/RmlUi/Include/RmlUi/Core/Spritesheet.h \
-  lib/RmlUi/Include/RmlUi/Core/Elements/ElementTabSet.h
+  lib/RmlUi/Include/RmlUi/Core/Elements/ElementTabSet.h \
+  lib/RmlUi/Include/RmlUi/Debugger.h \
+  lib/RmlUi/Include/RmlUi/Debugger/Debugger.h \
+  lib/RmlUi/Include/RmlUi/Debugger/Header.h \
+  lib/RmlUi/Include/RmlUi/Core/Platform.h \
+  src/RmlImpl.h
 
+
+src/RmlImpl.h:
+
+lib/RmlUi/Include/RmlUi/Debugger/Header.h:
+
+lib/RmlUi/Include/RmlUi/Debugger/Debugger.h:
+
+lib/RmlUi/Include/RmlUi/Debugger.h:
 
 lib/RmlUi/Include/RmlUi/Core/Elements/ElementTabSet.h:
 

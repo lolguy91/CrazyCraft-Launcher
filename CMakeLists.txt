@@ -29,4 +29,4 @@ target_include_directories(CrazyCraft-launcher PUBLIC lib/glfw/include)
 
 add_subdirectory(lib)
 
-target_link_libraries(CrazyCraft-launcher PUBLIC glad glfw RmlCore)
+target_link_libraries(CrazyCraft-launcher PUBLIC glad glfw RmlCore RmlDebugger)

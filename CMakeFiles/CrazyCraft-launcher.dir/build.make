@@ -95,8 +95,10 @@ bin/CrazyCraft-launcher: CMakeFiles/CrazyCraft-launcher.dir/build.make
 bin/CrazyCraft-launcher: bin/libglad.a
 bin/CrazyCraft-launcher: bin/libglfw3.a
 bin/CrazyCraft-launcher: bin/libRmlCore.a
+bin/CrazyCraft-launcher: bin/libRmlDebugger.a
 bin/CrazyCraft-launcher: /usr/lib/librt.a
 bin/CrazyCraft-launcher: /usr/lib/libm.so
+bin/CrazyCraft-launcher: bin/libRmlCore.a
 bin/CrazyCraft-launcher: /usr/lib/libfreetype.so
 bin/CrazyCraft-launcher: CMakeFiles/CrazyCraft-launcher.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ati/Desktop/code/launcher/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable bin/CrazyCraft-launcher"

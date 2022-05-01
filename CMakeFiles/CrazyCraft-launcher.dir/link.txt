@@ -1,1 +1,1 @@
-/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/CrazyCraft-launcher.dir/src/main.cpp.o" -o bin/CrazyCraft-launcher  bin/libglad.a bin/libglfw3.a bin/libRmlCore.a /usr/lib/librt.a -lm -ldl /usr/lib/libfreetype.so 
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/CrazyCraft-launcher.dir/src/main.cpp.o" -o bin/CrazyCraft-launcher  bin/libglad.a bin/libglfw3.a bin/libRmlCore.a bin/libRmlDebugger.a /usr/lib/librt.a -lm -ldl bin/libRmlCore.a /usr/lib/libfreetype.so 
