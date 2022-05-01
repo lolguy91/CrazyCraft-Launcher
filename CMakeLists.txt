@@ -24,6 +24,8 @@ file(GLOB_RECURSE PROJECT_SOURCE_FILES src/*.hpp src/*.h src/*.cpp)
 add_executable(CrazyCraft-launcher ${PROJECT_SOURCE_FILES})
 target_include_directories(CrazyCraft-launcher PUBLIC src)
 target_include_directories(CrazyCraft-launcher PUBLIC lib/RmlUi/Include)
+target_include_directories(CrazyCraft-launcher PUBLIC lib/glad/include)
+target_include_directories(CrazyCraft-launcher PUBLIC lib/glfw/include)
 
 add_subdirectory(lib)
 
