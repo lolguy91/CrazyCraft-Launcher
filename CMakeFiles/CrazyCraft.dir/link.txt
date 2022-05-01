@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/CrazyCraft.dir/src/main.cpp.o -o bin/CrazyCraft  bin/libglad.a bin/libglfw3.a bin/libRmlCore.a /usr/lib/librt.a -lm -ldl /usr/lib/libfreetype.so 
