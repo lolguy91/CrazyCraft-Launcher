@@ -87,13 +87,16 @@ int main(void){
 
 while (!glfwWindowShouldClose(window))
 {
+    if(glfwGetKey(window,GLFW_KEY_F1))
+    {
+        std::cout<< "lol" << std::endl;
+        Rml::Debugger::SetVisible(!Rml::Debugger::IsVisible());
+    }
     glClearColor(1,1,1,1);
     glClear(GL_COLOR_BUFFER_BIT);
 
     context->Update();
-
 	context->Render();
-
 
    glfwSwapBuffers(window);
    glfwPollEvents();
